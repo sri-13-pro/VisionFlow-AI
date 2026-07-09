@@ -1,0 +1,20 @@
+Metric,Value
+Runtime,00:03:19
+Frames Processed,247
+Average FPS,5.71
+Current People,19
+Unique Visitors,46
+Entries,0
+Exits,0
+Peak Crowd,33
+Average Crowd,22.76
+Average Speed,3.56
+Total Distance,10039.48
+Average Dwell,134.14
+Heat Density,0.0
+Maximum Heat,1.99
+
+Zone,Current,Entries,Exits,Peak
+Entrance,1,4,3,3
+Center,1,7,6,5
+Exit,3,12,9,6

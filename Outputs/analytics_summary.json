@@ -1,0 +1,39 @@
+{
+    "Runtime": "00:03:19",
+    "Frames Processed": 247,
+    "Average FPS": 5.71,
+    "Current People": 19,
+    "Unique Visitors": 46,
+    "Entries": 0,
+    "Exits": 0,
+    "Peak Crowd": 33,
+    "Average Crowd": 22.76,
+    "Average Speed": 3.56,
+    "Total Distance": 10039.48,
+    "Average Dwell": 134.14,
+    "Heat Density": 0.0,
+    "Maximum Heat": 1.99,
+    "Zones": [
+        {
+            "Zone": "Entrance",
+            "Current": 1,
+            "Entries": 4,
+            "Exits": 3,
+            "Peak": 3
+        },
+        {
+            "Zone": "Center",
+            "Current": 1,
+            "Entries": 7,
+            "Exits": 6,
+            "Peak": 5
+        },
+        {
+            "Zone": "Exit",
+            "Current": 3,
+            "Entries": 12,
+            "Exits": 9,
+            "Peak": 6
+        }
+    ]
+}
